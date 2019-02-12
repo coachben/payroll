@@ -1,24 +1,24 @@
-# README
+# Multi Company Payroll Software
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A payroll software of its kind designed for Auditing firms in Kenya.
+The product is designed with material design concepts in mind.
 
-Things you may want to cover:
+Features - To be supported:
 
-* Ruby version
+* Payroll Runs
 
-* System dependencies
+* Leave Management
 
-* Configuration
+* Employee Management
 
-* Database creation
+* Wages & Salary Paymode Support
 
-* Database initialization
+* Role management
 
-* How to run the test suite
+* Comprehensive Reports
 
-* Services (job queues, cache servers, search engines, etc.)
+* Audit Trails
 
-* Deployment instructions
+
 
 * ...
